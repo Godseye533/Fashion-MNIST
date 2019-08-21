@@ -5,12 +5,21 @@ To locate a pixel on the image, suppose that we have decomposed x as x = i * 28 
 For example, pixel31 indicates the pixel that is in the fourth column from the left, and the second row from the top, as in the ascii-diagram below. 
 
 # The Sole purpose of doing this project was to create a code to be run in Colab TPU
+
 Importing Dataset and Libraries
+
 Loading data
+
 Checking shape
+
 Plotting to visualize the data
+
 Reshaping Data
+
 Data Pre-processing using Image Data Generator
+
 Creating a CNN model
+
 Compiling the model
+
 Checking Accuracy
